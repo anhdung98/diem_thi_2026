@@ -1,12 +1,44 @@
+# Dữ liệu thô Điểm thi tốt nghiệp THPT 2026
 
-# Dữ liệu thô Điểm thi tốt nghiệp THPT 2025
+Dữ liệu cập nhật ngày 02/07/2026, không bao gồm điểm phúc khảo.
 
-Dữ liệu cập nhật ngày 16/07/2025, không bao gồm điểm sau phúc khảo.
+> Hai chữ số đầu tiên của số báo danh là mã Hội đồng thi (tỉnh/thành phố) của thí sinh dự thi
 
-Download tại đây: 
-| |Chương trình học|Kết quả thi
-|:--:|:--:|:--:|
-|1|GDPT 2018|[20250715-ketquathi-ct2018a.xlsx](https://github.com/anhdung98/diem_thi_2025/releases/download/250716/20250715-ketquathi-ct2018a.xlsx)
-|2|GDPT 2006|[20250715-ketquathi-ct2006.xlsx](https://github.com/anhdung98/diem_thi_2025/releases/download/250716/20250715-ketquathi-ct2006.xlsx)
+## Mã tỉnh/thành phố
 
-> Nguồn dữ liệu: https://baochinhphu.vn/8h-sang-16-7-tra-cuu-diem-thi-tot-nghiep-thpt-nam-2025-tren-cong-thong-tin-dien-tu-chinh-phu-102250715114537341.htm
+| Mã | Tỉnh/thành phố |
+|----|----------------|
+| 01 | Thành phố Hà Nội |
+| 04 | Tỉnh Cao Bằng |
+| 08 | Tỉnh Tuyên Quang |
+| 11 | Tỉnh Điện Biên |
+| 12 | Tỉnh Lai Châu |
+| 14 | Tỉnh Sơn La |
+| 15 | Tỉnh Lào Cai |
+| 19 | Tỉnh Thái Nguyên |
+| 20 | Tỉnh Lạng Sơn |
+| 22 | Tỉnh Quảng Ninh |
+| 24 | Tỉnh Bắc Ninh |
+| 25 | Tỉnh Phú Thọ |
+| 31 | Thành phố Hải Phòng |
+| 33 | Tỉnh Hưng Yên |
+| 37 | Tỉnh Ninh Bình |
+| 38 | Tỉnh Thanh Hóa |
+| 40 | Tỉnh Nghệ An |
+| 42 | Tỉnh Hà Tĩnh |
+| 44 | Tỉnh Quảng Trị |
+| 46 | Thành phố Huế |
+| 48 | Thành phố Đà Nẵng |
+| 51 | Tỉnh Quảng Ngãi |
+| 52 | Tỉnh Gia Lai |
+| 56 | Tỉnh Khánh Hòa |
+| 66 | Tỉnh Đắk Lắk |
+| 68 | Tỉnh Lâm Đồng |
+| 75 | Tỉnh Đồng Nai |
+| 79 | Thành phố Hồ Chí Minh |
+| 80 | Tỉnh Tây Ninh |
+| 82 | Tỉnh Đồng Tháp |
+| 86 | Tỉnh Vĩnh Long |
+| 91 | Tỉnh An Giang |
+| 92 | Thành phố Cần Thơ |
+| 96 | Tỉnh Cà Mau |
