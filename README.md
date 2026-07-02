@@ -2,6 +2,8 @@
 
 Dữ liệu cập nhật ngày 02/07/2026, không bao gồm điểm phúc khảo.
 
+Download tại đây: [diem_thpt_2026.csv](https://github.com/anhdung98/diem_thi_2026/releases/download/260702/diem_thpt_2026.csv)
+
 > Hai chữ số đầu tiên của số báo danh là mã Hội đồng thi (tỉnh/thành phố) của thí sinh dự thi
 
 ## Mã tỉnh/thành phố
@@ -42,3 +44,32 @@ Dữ liệu cập nhật ngày 02/07/2026, không bao gồm điểm phúc khảo
 | 91 | Tỉnh An Giang |
 | 92 | Thành phố Cần Thơ |
 | 96 | Tỉnh Cà Mau |
+
+## Chú thích các cột dữ liệu trong file CSV
+
+| Cột | Môn thi |
+|-----|---------|
+| dm1 | Toán |
+| dm2 | Ngữ văn |
+| dm3 | Ngoại ngữ |
+| dm4 | Lịch sử |
+| dm5 | Địa lí |
+| dm6 | Giáo dục kinh tế và pháp luật |
+| dm7 | Vật lí |
+| dm8 | Hóa học |
+| dm9 | Sinh học |
+| dm10 | Tin học |
+| dm11 | Giáo dục công dân |
+| dm12 | Công nghệ Công nghiệp |
+| dm13 | Công nghệ Nông nghiệp |
+
+## Bảng mã ngoại ngữ
+
+| Mã | Ngoại ngữ |
+|----|-----------|
+| N1 | Tiếng Anh |
+| N2 | Tiếng Nga |
+| N3 | Tiếng Pháp |
+| N4 | Tiếng Trung Quốc |
+| N5 | Tiếng Đức |
+| N6 | Tiếng Nhật |
